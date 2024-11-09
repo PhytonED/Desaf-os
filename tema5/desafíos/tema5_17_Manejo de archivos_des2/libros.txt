@@ -1,0 +1,6 @@
+El Quijote, Miguel de Cervantes
+Cien años de soledad, Gabriel García Márquez
+Don Juan Tenorio, Tirso de Molina
+Si se ingresa "Miguel de Cervantes" como autor, la salida sería:
+Libros escritos por Miguel de Cervantes:
+El Quijote, Miguel de Cervantes
