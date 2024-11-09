@@ -3,6 +3,12 @@
 # Consigna: Escribe una función que calcule el factorial de un número entero positivo. 
 # Maneja las excepciones si el número ingresado es negativo, no es entero, o es demasiado grande para ser procesado.
 # Autora: Eliana D
+'''
+El programa solicita un número, lo convierte en entero y verifica si es negativo.
+Si es negativo, se lanza una excepción personalizada (ValueError).
+Se utiliza la función math.factorial para calcular el factorial, y se manejan excepciones como OverflowError para números grandes.
+'''
+
 
 import math
 
