@@ -1,6 +1,16 @@
-El Quijote, Miguel de Cervantes
-Cien años de soledad, Gabriel García Márquez
-Don Juan Tenorio, Tirso de Molina
-Si se ingresa "Miguel de Cervantes" como autor, la salida sería:
-Libros escritos por Miguel de Cervantes:
-El Quijote, Miguel de Cervantes
+Gabriel García Márquez, Cien años de soledad
+Jorge Luis Borges, Ficciones
+Pablo Neruda, Veinte poemas de amor y una canción desesperada
+Octavio Paz, El laberinto de la soledad
+Julio Cortázar, Rayuela
+Miguel Ángel Asturias, El señor presidente
+Carlos Fuentes, La muerte de Artemio Cruz
+Mario Vargas Llosa, La ciudad y los perros
+Gabriela Mistral, Desolación
+Ricardo Piglia, Artificialmente
+Juan Carlos Onetti, El astillero
+Mario Benedetti, La tregua
+Horacio Quiroga, Cuentos de la selva
+Delmira Agustini, El diario de una señora
+Idea Vilariño, La súplica
+Juan José Morosoli, Perico
